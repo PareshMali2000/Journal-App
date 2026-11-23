@@ -1,4 +1,4 @@
-package com.paresh.journalApp.entity;
+package org.paresh.entity;
 
 
 import lombok.*;
